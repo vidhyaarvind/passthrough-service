@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter.finatra
+Implementation-Title: finatraJackson
+Implementation-Version: 2.0.0.M1
+Implementation-Vendor-Id: com.twitter.finatra
+Specification-Vendor: com.twitter.finatra
+Specification-Title: finatraJackson
+Implementation-URL: https://github.com/twitter/finatra
+Specification-Version: 2.0.0.M1
+

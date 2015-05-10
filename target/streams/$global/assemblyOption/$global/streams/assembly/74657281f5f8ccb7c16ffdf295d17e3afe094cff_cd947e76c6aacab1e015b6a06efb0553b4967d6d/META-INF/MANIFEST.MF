@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1416896687381
+Build-Jdk: 1.7.0_25
+Built-By: tatu
+Bundle-Description: Add-on module for Jackson (http://jackson.codehaus.o
+ rg) to supportJoda (http://joda-time.sourceforge.net/) data types.
+Bundle-DocURL: http://wiki.fasterxml.com/JacksonModuleJoda
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Jackson-datatype-Joda
+Bundle-SymbolicName: com.fasterxml.jackson.datatype.jackson-datatype-jod
+ a
+Bundle-Vendor: FasterXML
+Bundle-Version: 2.4.4
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.fasterxml.jackson.datatype.joda.deser.key;version="2
+ .4.4",com.fasterxml.jackson.datatype.joda;version="2.4.4",com.fasterxml
+ .jackson.datatype.joda.deser;version="2.4.4",com.fasterxml.jackson.data
+ type.joda.ser;version="2.4.4"
+Implementation-Build-Date: 2014-11-24 22:24:43-0800
+Implementation-Title: Jackson-datatype-Joda
+Implementation-Vendor: FasterXML
+Implementation-Vendor-Id: com.fasterxml.jackson.datatype
+Implementation-Version: 2.4.4
+Import-Package: com.fasterxml.jackson.annotation;version="[2.4.0,3)",com
+ .fasterxml.jackson.core;version="[2.4.4,3)",com.fasterxml.jackson.core.
+ util;version="[2.4.4,3)",com.fasterxml.jackson.databind;version="[2.4.4
+ ,3)",com.fasterxml.jackson.databind.deser.std;version="[2.4.4,3)",com.f
+ asterxml.jackson.databind.introspect;version="[2.4.4,3)",com.fasterxml.
+ jackson.databind.jsontype;version="[2.4.4,3)",com.fasterxml.jackson.dat
+ abind.module;version="[2.4.4,3)",com.fasterxml.jackson.databind.node;ve
+ rsion="[2.4.4,3)",com.fasterxml.jackson.databind.ser;version="[2.4.4,3)
+ ",com.fasterxml.jackson.databind.ser.std;version="[2.4.4,3)",org.joda.t
+ ime;version="[2.2.0,3)",org.joda.time.format;version="[2.2.0,3)"
+Specification-Title: Jackson-datatype-Joda
+Specification-Vendor: FasterXML
+Specification-Version: 2.4.4
+Tool: Bnd-1.50.0
+X-Compile-Source-JDK: 1.6
+X-Compile-Target-JDK: 1.6

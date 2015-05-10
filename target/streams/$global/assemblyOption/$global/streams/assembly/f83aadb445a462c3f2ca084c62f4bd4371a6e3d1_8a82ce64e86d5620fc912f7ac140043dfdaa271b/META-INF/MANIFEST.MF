@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter.inject
+Implementation-Title: injectRequestScope
+Implementation-Version: 2.0.0.M1
+Implementation-Vendor-Id: com.twitter.inject
+Specification-Vendor: com.twitter.inject
+Specification-Title: injectRequestScope
+Implementation-URL: https://github.com/twitter/finatra
+Specification-Version: 2.0.0.M1
+
