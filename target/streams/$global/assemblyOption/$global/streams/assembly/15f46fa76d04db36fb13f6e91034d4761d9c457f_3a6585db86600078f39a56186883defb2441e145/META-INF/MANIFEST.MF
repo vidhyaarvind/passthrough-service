@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: com.twitter
-Implementation-Title: finagle-zipkin
-Implementation-Version: 6.25.0
-Implementation-Vendor-Id: com.twitter
-Specification-Vendor: com.twitter
-Specification-Title: finagle-zipkin
-Specification-Version: 6.25.0
-

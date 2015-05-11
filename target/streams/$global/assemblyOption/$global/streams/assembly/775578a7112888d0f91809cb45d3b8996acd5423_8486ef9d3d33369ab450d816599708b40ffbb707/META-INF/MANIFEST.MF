@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: com.twitter
-Implementation-Title: finagle-thriftmux
-Implementation-Version: 6.25.0
-Implementation-Vendor-Id: com.twitter
-Specification-Vendor: com.twitter
-Specification-Title: finagle-thriftmux
-Specification-Version: 6.25.0
-
